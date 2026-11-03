@@ -6,7 +6,7 @@ This project demonstrates an end-to-end statistical analysis of a hypothetical r
 
 The workflow includes simulation of subject-level clinical trial data, baseline summaries, primary endpoint analysis, treatment-effect estimation, and generation of reproducible statistical outputs.
 
-All data are simulated and are intended solely to demonstrate clinical biostatistics and statistical programming methods.
+All data are simulated and are intentionally small in order to demonstrate clinical biostatistics and statistical programming methods.
 
 ## Study Design
 
