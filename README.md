@@ -4,7 +4,7 @@
 
 This project demonstrates an end-to-end statistical analysis of a hypothetical randomized controlled clinical trial using R.
 
-The workflow includes simulation of subject-level clinical trial data, construction of an intent-to-treat analysis population, baseline summaries, primary endpoint analysis, treatment-effect estimation, and generation of reproducible statistical outputs.
+The workflow includes simulation of subject-level clinical trial data, baseline summaries, primary endpoint analysis, treatment-effect estimation, and generation of reproducible statistical outputs.
 
 All data are simulated and are intended solely to demonstrate clinical biostatistics and statistical programming methods.
 
