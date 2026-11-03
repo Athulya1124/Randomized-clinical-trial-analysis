@@ -10,13 +10,12 @@ All data are simulated and are intentionally small in order to demonstrate clini
 
 ## Study Design
 
-- Study design: Prospective, randomized, two-arm clinical trial
+- Study design: Hypothetical two-arm randomized controlled clinical trial
 - Sample size: 300 participants
 - Treatment allocation: 1:1
 - Treatment group: Investigational treatment (n = 150)
 - Control group: Standard treatment (n = 150)
 - Primary endpoint: Binary clinical success outcome
-- Analysis population: Intent-to-treat (ITT)
 
 ## Primary Objective
 
@@ -63,7 +62,6 @@ The absolute risk difference was calculated as:
 
 A two-sided 95% confidence interval was calculated for the treatment difference, together with a hypothesis test of no difference between treatment groups.
 
-All analyses were conducted using the intent-to-treat principle.
 
 ## Treatment Effect
 
@@ -95,7 +93,6 @@ The analysis is separated into data-generation and analysis programs to mimic a 
 ## Skills Demonstrated
 
 - Randomized clinical trial analysis
-- Intent-to-treat analysis
 - Clinical data simulation
 - Baseline characteristic tables
 - Binary endpoint analysis
